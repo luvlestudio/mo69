@@ -48,7 +48,7 @@ window.onload = () => {
       content: {
         title: "태연 ♥ 소정의 모바일 청첩장",
         description: "2025년 5월 10일 토요일♡",
-        imageUrl: "https://i.imgur.com/tz9S1tB.png",
+        imageUrl: "https://i.imgur.com/tz9S1tB.png?1",
         imageWidth: 1200,
         imageHeight: 630,
         link: {
