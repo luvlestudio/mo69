@@ -46,22 +46,22 @@ window.onload = () => {
     Kakao.Share.sendDefault({
       objectType: "feed",
       content: {
-        title: "충열 ♥ 소연의 모바일 청첩장",
-        description: "2025년 5월 4일 일요일♡",
-        imageUrl: "https://i.imgur.com/V2gQdbS.png",
+        title: "태연 ♥ 소정의 모바일 청첩장",
+        description: "2025년 5월 10일 토요일♡",
+        imageUrl: "https://i.imgur.com/tz9S1tB.png",
         imageWidth: 1200,
         imageHeight: 630,
         link: {
-          mobileWebUrl: "https://mo61.luvle.kr",
-          webUrl: "https://mo61.luvle.kr",
+          mobileWebUrl: "https://mo69.luvle.kr",
+          webUrl: "https://mo69.luvle.kr",
         },
       },
       buttons: [
         {
           title: "자세히 보기",
           link: {
-            mobileWebUrl: "https://mo61.luvle.kr",
-            webUrl: "https://mo61.luvle.kr",
+            mobileWebUrl: "https://mo69.luvle.kr",
+            webUrl: "https://mo69.luvle.kr",
           },
         },
       ],
